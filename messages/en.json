@@ -1,0 +1,77 @@
+{
+    "person": {
+        "role": "Frasher"
+    },
+    "newsletter": {
+        "title": "Subscribe to {firstName}'s Newsletter",
+        "description": "I occasionally write about design, technology, and share thoughts on the intersection of creativity and engineering.",
+        "button": "Sign up"
+    },
+    "home": {
+        "label": "Home",
+        "title": "{name}'s Portfolio",
+        "description": "Portfolio website showcasing my work as a {role}",
+        "headline": "Java Developer & Code Builder",
+        "subline": "I'm Avinash, a Java Developer at NIT Hyderabad, where I build code intuitive user experiences. After hours, I build my own projects."
+    },
+    "about": {
+        "label": "About",
+        "title": "About me",
+        "description": "Meet {name}, {role} from {location}",
+        "intro": {
+            "title": "Introduction",
+            "description": "Developer Avinash is the founder and curator of Dev.Avinash. I'm a passionate software developer with years of experience in the field. My journey in the tech world began with a simple curiosity, and it has since evolved into a deep-seated love for coding, problem-solving, and the pursuit of knowledge."
+        },
+        "work": {
+            "title": "Work Experience",
+            "experiences": {
+                "Naresh I Technology": {
+                    "timeframe": "2023 - Present",
+                    "role": "Java Developer tranee",
+                    "achievements": "Redesigned the UI/UX or maintaine backend code for the personal Site platform, resulting in a 20% increase in user engagement and 30% faster load times."
+                }
+                
+            }
+        },
+        "studies": {
+            "title": "Studies",
+            "institutions": {
+                "Makhanlal Chaturvedi National University": {
+                    "description": "Bachelor of Computer Application (2020 - 2023)."
+                },
+                "Sam Global University, Bhopal": {
+                    "description": "Master of Computer Application (2023 - Present)."
+                }
+            }
+        },
+        "technical": {
+            "title": "Technical skills",
+            "skills": {
+                "Java": {
+                    "description": "Able to prototype in java with performance with unnatural speed."
+                },
+                "Oracle": {
+                    "description": "Its a database we can manage n number of data."
+                }
+            }
+        }
+    },
+    "blog": {
+        "label": "Blog",
+        "title": "Writing about code and tech...",
+        "description": "Read what {name} has been up to recently"
+    },
+    "work": {
+        "label": "Work",
+        "title": "My projects",
+        "description": "Design and dev projects by {name}"
+    },
+    "gallery": {
+        "label": "Gallery",
+        "title": "My photo gallery",
+        "description": "A photo collection by {name}"
+    },
+    "projectCard": {
+        "label": "Read Case Study"
+    }
+}
